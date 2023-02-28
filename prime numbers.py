@@ -1,0 +1,6 @@
+#print prime numbers in between 25 to 50
+i=25
+while i<50:
+    if i%2!=0:
+        print(i)
+    i=i+1
